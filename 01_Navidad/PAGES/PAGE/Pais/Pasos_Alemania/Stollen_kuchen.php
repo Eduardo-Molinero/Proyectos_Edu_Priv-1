@@ -115,7 +115,7 @@ session_start();
                             la parte de arriba del stollen.
                         </p>
 
-                        <a href="../Alemania.php" class="btn btn-danger">Volver a recetas de Alemania</a>
+                        <a href="../Alemania.php" class="btn btn-danger">Volver atrás</a>
                     </div>
                 </div>
             </div>
