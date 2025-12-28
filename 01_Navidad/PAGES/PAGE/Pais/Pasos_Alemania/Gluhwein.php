@@ -65,7 +65,7 @@ session_start();
                     <div class="card-body">
                         <h5 class="card-title">Stollen kuchen</h5>
                         <p class="card-text">Esto es un pan dulce navideño, ahora seguiremos con sus pasos de elaboración</p>
-                        <a href="Pasos_Alemania/Stollen_kuchen.php" class="btn btn-danger">Pasos</a>
+                        <a href="#" class="btn btn-danger">Pasos</a>
                     </div>
                 </div>
             </div>
